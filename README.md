@@ -1,4 +1,3 @@
-<code>🎓 Student: KPI / IP-04</code>
 <code>👷 Speciality: Software engineer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <br>
